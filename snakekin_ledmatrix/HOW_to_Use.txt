@@ -1,0 +1,9 @@
+1) create a folder called snakekin_ledmatrix
+2) move the files: snakekin_ledmatrix.ino, LedTestAnimation.h, LedMatrixTypes.h, LedMatrixMethods.h
+into the folder
+3) open in Arduino IDE
+
+Note theres 2 matrices;
+LedMatrix = 7x8 = byte array of 7 items. Each bit of each array item represents an LED
+ApplesMatrix = 7x8 byte array of 7 items. Each bit of each array item represents an LED 
+
